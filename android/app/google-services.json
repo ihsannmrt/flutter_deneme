@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571369180674",
+    "firebase_url": "https://incomeandexpense-ce9c7-default-rtdb.firebaseio.com",
+    "project_id": "incomeandexpense-ce9c7",
+    "storage_bucket": "incomeandexpense-ce9c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571369180674:android:eb8575d1bfef3c53af611b",
+        "android_client_info": {
+          "package_name": "com.example.flutterdeneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF8WolVkrGKF0ZXyrR55GBWykaNXSFvcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
